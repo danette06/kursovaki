@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (BanduraCursovaPharmacy.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  DistributorForm.cpp
+  EditDistributor.cpp
+  EditLead.cpp
+  EditPencil.cpp
+  Edittype.cpp
+  LeadForm.cpp
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\LeadForm.h(58,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  PencilForm.cpp
+  StartForm.cpp
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\LeadForm.h(58,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  TypeForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  DistributorForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BanduraCursovaPharmacy.vcxproj -> C:\Users\Anon\Desktop\kursova\x64\Release\BanduraCursovaPencil.exe

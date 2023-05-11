@@ -1,0 +1,90 @@
+  BanduraCursovaPharmacy.DistributorForm.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.EditDistributor.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.EditLead.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.EditPencil.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.Edittype.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.LeadForm.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.PencilForm.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.StartForm.resources - Embedded, ContainedInManifestFile, 
+  BanduraCursovaPharmacy.TypeForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BanduraCursovaPharmacy, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BanduraCursovaPencil.EditDistributor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IfDuplicate(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.DistributorForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getDistributor(): PrivateScope, Public, HideBySig
+    execute(String): PrivateScope, Public, HideBySig
+    updateTable(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.EditLead: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IfDuplicate(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.EditPencil: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    currComboBox3Set(Int32): PrivateScope, Public, HideBySig
+    getCurrComboBox3(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.EditType: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    IfDuplicate(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.LeadForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getLead(): PrivateScope, Public, HideBySig
+    execute(String): PrivateScope, Public, HideBySig
+    updateTable(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.PencilForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getPencil(): PrivateScope, Public, HideBySig
+    getSelectedDistributorIndex(): PrivateScope, Public, HideBySig
+    execute(String): PrivateScope, Public, HideBySig
+    getQueryPencil(String): PrivateScope, Public, HideBySig
+    getDistributor(Int32): PrivateScope, Public, HideBySig
+    getLeadThickness(Int32): PrivateScope, Public, HideBySig
+    getLeadColor(Int32): PrivateScope, Public, HideBySig
+    getTypeType(Int32): PrivateScope, Public, HideBySig
+    getTypeForm(Int32): PrivateScope, Public, HideBySig
+    getTypeHardness(Int32): PrivateScope, Public, HideBySig
+    updateTable(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.TypeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getType(): PrivateScope, Public, HideBySig
+    execute(String): PrivateScope, Public, HideBySig
+    updateTable(): PrivateScope, Public, HideBySig
+Class BanduraCursovaPencil.StartForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

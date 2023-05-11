@@ -1,0 +1,36 @@
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.DistributorForm.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditDistributor.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditMedicine.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditOrder.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditPharmacy.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.MedicineForm.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.OrderForm.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.PharmacyForm.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.StartForm.resources
+C:\Users\Anon\Desktop\Курсова Бандура\Project\BanduraCursovaPharmacy\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.GenerateResource.cache
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.DistributorForm.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditDistributor.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditLead.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditPencil.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.Edittype.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.LeadForm.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.PencilForm.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.StartForm.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.TypeForm.resources
+C:\Users\Anon\Desktop\bANDURA — копия\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.GenerateResource.cache
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.DistributorForm.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditDistributor.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditLead.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.EditPencil.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.Edittype.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.LeadForm.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.PencilForm.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.StartForm.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.TypeForm.resources
+C:\Users\Anon\Desktop\kursova\BanduraCursovaPharmacy\x64\Release\BanduraCursovaPharmacy.vcxproj.GenerateResource.cache
